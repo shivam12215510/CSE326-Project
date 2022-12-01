@@ -1,0 +1,164 @@
+#menu1 {
+    color:rgb(194, 5, 5);
+        text-decoration: underline;
+        text-align: center;
+        letter-spacing: 3px;
+    text-indent: 500px;
+    line-height: 0.7;
+    word-spacing: 10px;
+    font-style: italic;
+        font-size: 20px;
+        font-weight: bold;
+        font-variant: small-caps;
+    }
+    body{
+       
+        background-image: url( '2.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    input { 
+            width:80%; 
+            height:30px; 
+        } 
+        button.submitbtn { 
+            background-color:rgb(182, 43, 43); 
+            color:rgb(255, 255, 255); 
+            border:none; 
+            border-radius:5px; 
+            font-size:14px; 
+            padding:5px; 
+        }
+                  
+    
+    #bg1{
+    background-color:rgb(197, 196, 187)
+    }
+    #bg2{
+        background-color: rgb(144, 219, 219);
+    }
+    button.resetbtn { 
+        background-color:blue; 
+        color:white; 
+        border:none; 
+        border-radius:5px; 
+        font-size:14px; 
+        padding:5px; 
+            
+    } 
+    
+
+    h2 { 
+        text-align:left; 
+    } 
+    #menu{
+        font-size: medium;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        text-shadow: burlywood;
+        text-transform:capitalize ;
+        color: rgb(82, 82, 88);
+        height: 3px;
+        padding: 3px;
+     
+        
+
+
+    }
+    p.insertion{
+        color: darkcyan;
+        width: 100%;
+        height: 30px;
+    }
+    #edits3{
+        font-style: italic;
+        color: rgb(0, 0, 0);
+        text-align: center;
+    }
+    #edits{
+        width: 55%;
+        color: black;
+        font-size: medium;
+        font-weight: bold;
+    }
+    #edits2{
+        width: 35%;
+        color: rgb(0, 0, 0);
+        background-color: rgb(197, 196, 187);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: medium;
+        font-weight: bold;
+    }
+
+    #edits4{
+        color: crimson;
+        font-style: italic;
+
+    }
+    #edits5{
+        color: black;
+        font-family:Georgia, 'Times New Roman', Times, serif
+        
+   
+    }
+        h1{
+            font-size: medium;
+            font-weight: bold;
+                        text-shadow: red;
+                        text-transform:capitalize ;
+                        color:#da5203;
+                        height: 3px;
+                        padding: 3px;
+                        text-decoration-line: underline;
+        }
+        a{
+            color: rgb(214, 178, 127);
+        }
+        #update{
+                font-size: medium;
+                        font-weight: bold;
+                        text-shadow: burlywood;
+                        text-transform:capitalize ;
+                        color: black;
+                        height: 3px;
+                        padding: 3px;
+                        text-decoration-line: underline;
+                          text-align: center; }
+        #kali{
+            font-size: medium;
+            font-weight: bold;
+                        text-shadow: red;
+                     
+                        color: blue;
+                        height: 3px;
+                        padding: 3px;    
+        }
+        #refer{
+            text-decoration: brown;
+            font-weight: bold;
+            font-style: italic;
+            color: brown;
+        
+        }
+        #photo1{
+            background:center;
+            background-image: url( 'feedback2.jpg');
+        }
+        #submit{
+            width: 6rem;
+        }
+        #bar{
+           
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2.5rem;
+        text-decoration: none;
+        }
+        #bar a:hover{
+           text-decoration: none;
+            background-color: white;
+            color: black;
+        }
+        
